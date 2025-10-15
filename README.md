@@ -1,5 +1,3 @@
-**Webiste: https://awesomeqa.com/ui/index.php?route=common/home**
-
 This repository includes **structured test cases** for multiple websites, focusing on verifying **core functionalities**, **user interface behavior**, and **error handling** across different modules.
 
 The test cases are well-organized and include sections such as:
