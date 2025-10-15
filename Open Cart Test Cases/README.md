@@ -1,6 +1,4 @@
-**Webiste: https://awesomeqa.com/ui/index.php?route=common/home**
-
-This repository includes **structured test cases** for multiple websites, focusing on verifying **core functionalities**, **user interface behavior**, and **error handling** across different modules.
+This folder includes **structured test cases** for the **Webiste: https://awesomeqa.com/ui/index.php?route=common/home**
 
 The test cases are well-organized and include sections such as:
 
@@ -10,4 +8,4 @@ The test cases are well-organized and include sections such as:
 - **Expected Results**  
 - **Actual Results**
 
-These elements ensure comprehensive **coverage** and **clarity** throughout the testing process.
+
